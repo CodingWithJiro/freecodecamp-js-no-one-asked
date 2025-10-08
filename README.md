@@ -1,4 +1,4 @@
-# 💻 No One Asked
+# No One Asked
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -23,7 +23,7 @@
 ![Learning Path](https://img.shields.io/badge/learning%20path-month%205-blue)
 ![Views](https://visitor-badge.laobi.icu/badge?page_id=CodingWithJiro.freecodecamp-js-no-one-asked&left_text=repo%20views)
 
-## ℹ️ No One Asked - A Random Advice Generator Inspired From a FreeCodeCamp Lab Challenge
+## No One Asked - A Random Advice Generator Inspired From a FreeCodeCamp Lab Challenge
 
 | _Mobile Preview (375x812)_                                   | _Desktop Preview (1440x960)_                                    |
 | ------------------------------------------------------------ | --------------------------------------------------------------- |
@@ -32,11 +32,11 @@
 
 This project is a random advice generator powered by the **[Advice Slip API](https://api.adviceslip.com/)** where users can click the floating button to fetch humorous or thoughtful advice, styled in a sleek modern UI with responsive layout, theme toggle support, and dynamic transitions.
 
-Created and inspired from the favorite icon toggler lab challenge of the [**freeCodeCamp.org**](https://www.freecodecamp.org/learn/full-stack-developer/) JavaScript course.
+Created and inspired from the favorite icon toggler lab challenge of the **[freeCodeCamp.org](https://www.freecodecamp.org/learn/full-stack-developer/)** JavaScript course.
 
 ---
 
-## 🔍 Overview
+## Overview
 
 This web app fetches and displays random advice using the **[Advice Slip API](https://api.adviceslip.com/)**. The interface is minimalistic yet dynamic and is centered around a group of interactive buttons and an advice card that refreshes on click.
 
@@ -44,7 +44,7 @@ The site also saves the user's favorites via dynamic updates in their browser's 
 
 ---
 
-## ✨ Features
+## Features
 
 - Fetch random advice from the Advice Slip API
 - Theme toggle (light/dark mode) with persistent `localStorage` support
@@ -58,19 +58,19 @@ The site also saves the user's favorites via dynamic updates in their browser's 
 
 ---
 
-## 🧠 What I Learned
+## What I Learned
 
 - This is my first time in trying JavaScript using ES modules via `import` and `export`
 - First time using a public API and producing dynamic DOM updates by using `async`, `await` and `fetch()`
 - First time applying `aria-live` for accessible screen reader updates
-- Created a near perfect copy of a free [Figma design file](https://www.figma.com/community/file/1332877965616249757/free-section-design-testimonials)
+- Created a near perfect copy of a free **[Figma design file](https://www.figma.com/community/file/1332877965616249757/free-section-design-testimonials)**
 - Strengthened my grasp on how to store and retrieve preferences and data from `localStorage`
 - Gained more experience in managing CSS transitions across dark/light modes
 - Better separation of concerns through modules and semantic HTML
 
 ---
 
-## 🛠️ Tech Used
+## Tech Used
 
 - HTML5
 - CSS3
@@ -81,35 +81,35 @@ The site also saves the user's favorites via dynamic updates in their browser's 
 
 ---
 
-## 🎨 Design Reference & Tools
+## Design Reference & Tools
 
 - Figma
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. Clone the repository
 2. Open `index.html` in your browser
 
 ---
 
-## 🌐 Live Demo
+## Live Demo
 
-Or you can check out the 👉 [live website here](https://no-one-asked-fcc-jiro.netlify.app/)
-
----
-
-## 📊 Performance Report
-
-A **Google Lighthouse** audit was conducted on the final version of this project. You can view the full report [here](./assets/downloads/lighthouse-performance-report.pdf).
+Or you can check out the **[live website here](https://no-one-asked-fcc-jiro.netlify.app/)**
 
 ---
 
-## 🧑‍💻 Author
+## Performance Report
+
+A **Google Lighthouse** audit was conducted on the final version of this project. You can view the **[full report here](./assets/downloads/lighthouse-performance-report.pdf)**.
+
+---
+
+## Author
 
 Created by **Elmar Chavez**
 
-🗓️ Month/Year: **August 2025**
+Month/Year: **August 2025**
 
-📚 Journey: **5<sup>th</sup>** month of learning _frontend web development_.
+Journey: **5<sup>th</sup>** month of learning _frontend web development_.
